@@ -1,0 +1,3135 @@
+Iteration 40
+Train time: 18.442501
+Eval test time: 1.012340
+Test AUC: 0.585178
+Test loss: 0.688205
+Eval train time: 1.896745
+Train AUC: 0.570704
+Train loss: 0.687432
+Loop time: 21.351772 (1:28:36.591245 left)
+Memory usage: 0.493gb (529510400)
+Best test AUC/RMSD: 0.585178 inf   Best train loss: 0.687432
+
+Iteration 80
+Train time: 18.230922
+Eval test time: 1.012744
+Test AUC: 0.602431
+Test loss: 0.677700
+Eval train time: 1.899622
+Train AUC: 0.587390
+Train loss: 0.680748
+Loop time: 21.143487 (1:27:49.412122 left)
+Memory usage: 0.501gb (537513984)
+Best test AUC/RMSD: 0.602431 inf   Best train loss: 0.680748
+
+Iteration 120
+Train time: 18.295181
+Eval test time: 1.014510
+Test AUC: 0.639540
+Test loss: 0.667308
+Eval train time: 1.907214
+Train AUC: 0.658386
+Train loss: 0.655709
+Loop time: 21.217082 (1:27:25.649415 left)
+Memory usage: 0.505gb (542380032)
+Best test AUC/RMSD: 0.639540 inf   Best train loss: 0.655709
+
+Iteration 160
+Train time: 18.282048
+Eval test time: 1.007174
+Test AUC: 0.632161
+Test loss: 0.664756
+Eval train time: 1.889739
+Train AUC: 0.678260
+Train loss: 0.654775
+Loop time: 21.179146 (1:27:00.826458 left)
+Memory usage: 0.509gb (546586624)
+Best test AUC/RMSD: 0.639540 inf   Best train loss: 0.654775
+
+Iteration 200
+Train time: 18.295792
+Eval test time: 1.007899
+Test AUC: 0.643880
+Test loss: 0.660880
+Eval train time: 1.889846
+Train AUC: 0.703688
+Train loss: 0.638585
+Loop time: 21.193727 (1:26:38.175493 left)
+Memory usage: 0.510gb (547676160)
+Best test AUC/RMSD: 0.643880 inf   Best train loss: 0.638585
+
+Iteration 240
+Train time: 18.307277
+Eval test time: 0.958757
+Test AUC: 0.652344
+Test loss: 0.706778
+Eval train time: 1.894217
+Train AUC: 0.715432
+Train loss: 0.657667
+Loop time: 21.160438 (1:26:14.656523 left)
+Memory usage: 0.511gb (548216832)
+Best test AUC/RMSD: 0.652344 inf   Best train loss: 0.638585
+
+Iteration 280
+Train time: 18.309323
+Eval test time: 1.020968
+Test AUC: 0.642578
+Test loss: 0.655865
+Eval train time: 1.911896
+Train AUC: 0.729328
+Train loss: 0.627028
+Loop time: 21.242371 (1:25:54.655657 left)
+Memory usage: 0.511gb (548220928)
+Best test AUC/RMSD: 0.652344 inf   Best train loss: 0.627028
+
+Iteration 320
+Train time: 18.308006
+Eval test time: 1.009423
+Test AUC: 0.661892
+Test loss: 0.657795
+Eval train time: 1.918884
+Train AUC: 0.743092
+Train loss: 0.634794
+Loop time: 21.236503 (1:25:34.166909 left)
+Memory usage: 0.511gb (548233216)
+Best test AUC/RMSD: 0.661892 inf   Best train loss: 0.627028
+
+Iteration 360
+Train time: 18.449775
+Eval test time: 1.006749
+Test AUC: 0.669162
+Test loss: 0.645403
+Eval train time: 1.890229
+Train AUC: 0.738282
+Train loss: 0.608454
+Loop time: 21.346924 (1:25:16.468821 left)
+Memory usage: 0.515gb (552607744)
+Best test AUC/RMSD: 0.669162 inf   Best train loss: 0.608454
+
+Iteration 400
+Train time: 18.296688
+Eval test time: 0.957907
+Test AUC: 0.660156
+Test loss: 0.701103
+Eval train time: 1.912458
+Train AUC: 0.762435
+Train loss: 0.646459
+Loop time: 21.167238 (1:24:53.728506 left)
+Memory usage: 0.518gb (556113920)
+Best test AUC/RMSD: 0.669162 inf   Best train loss: 0.608454
+
+Iteration 440
+Train time: 18.496465
+Eval test time: 0.965346
+Test AUC: 0.698568
+Test loss: 0.639605
+Eval train time: 1.896544
+Train AUC: 0.781194
+Train loss: 0.605677
+Loop time: 21.358531 (1:24:35.430480 left)
+Memory usage: 0.518gb (556236800)
+Best test AUC/RMSD: 0.698568 inf   Best train loss: 0.605677
+
+Iteration 480
+Train time: 18.507430
+Eval test time: 1.006451
+Test AUC: 0.690647
+Test loss: 0.641627
+Eval train time: 1.895348
+Train AUC: 0.791529
+Train loss: 0.586213
+Loop time: 21.409408 (1:24:17.631432 left)
+Memory usage: 0.518gb (556236800)
+Best test AUC/RMSD: 0.698568 inf   Best train loss: 0.586213
+
+Iteration 520
+Train time: 18.366429
+Eval test time: 1.009117
+Test AUC: 0.704319
+Test loss: 0.625917
+Eval train time: 1.920012
+Train AUC: 0.806329
+Train loss: 0.550143
+Loop time: 21.295736 (1:23:57.204612 left)
+Memory usage: 0.518gb (556236800)
+Best test AUC/RMSD: 0.704319 inf   Best train loss: 0.550143
+
+Iteration 560
+Train time: 18.508839
+Eval test time: 1.006102
+Test AUC: 0.735352
+Test loss: 0.611034
+Eval train time: 1.921402
+Train AUC: 0.824131
+Train loss: 0.541576
+Loop time: 21.436516 (1:23:39.026813 left)
+Memory usage: 0.518gb (556236800)
+Best test AUC/RMSD: 0.735352 inf   Best train loss: 0.541576
+
+Iteration 600
+Train time: 18.507197
+Eval test time: 1.011514
+Test AUC: 0.732964
+Test loss: 0.593860
+Eval train time: 1.922455
+Train AUC: 0.841747
+Train loss: 0.523256
+Loop time: 21.441329 (1:23:20.489921 left)
+Memory usage: 0.518gb (556236800)
+Best test AUC/RMSD: 0.735352 inf   Best train loss: 0.523256
+
+Iteration 640
+Train time: 18.506925
+Eval test time: 1.007980
+Test AUC: 0.746419
+Test loss: 0.607142
+Eval train time: 1.923244
+Train AUC: 0.857849
+Train loss: 0.503910
+Loop time: 21.438327 (1:23:01.546071 left)
+Memory usage: 0.518gb (556236800)
+Best test AUC/RMSD: 0.746419 inf   Best train loss: 0.503910
+
+Iteration 680
+Train time: 18.512136
+Eval test time: 1.019031
+Test AUC: 0.751302
+Test loss: 0.747196
+Eval train time: 1.921472
+Train AUC: 0.845467
+Train loss: 0.618110
+Loop time: 21.452820 (1:22:42.507390 left)
+Memory usage: 0.518gb (556236800)
+Best test AUC/RMSD: 0.751302 inf   Best train loss: 0.503910
+
+Iteration 720
+Train time: 18.498775
+Eval test time: 1.011305
+Test AUC: 0.758464
+Test loss: 0.597594
+Eval train time: 1.899738
+Train AUC: 0.887714
+Train loss: 0.447849
+Loop time: 21.409993 (1:22:22.648480 left)
+Memory usage: 0.518gb (556236800)
+Best test AUC/RMSD: 0.758464 inf   Best train loss: 0.447849
+
+Iteration 760
+Train time: 18.360541
+Eval test time: 1.010685
+Test AUC: 0.770182
+Test loss: 0.716843
+Eval train time: 1.893903
+Train AUC: 0.879876
+Train loss: 0.477868
+Loop time: 21.265313 (1:22:00.867293 left)
+Memory usage: 0.518gb (556236800)
+Best test AUC/RMSD: 0.770182 inf   Best train loss: 0.447849
+I0417 21:53:45.594017 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.8045 > 10) by scale factor 0.925543
+
+Iteration 800
+Train time: 18.371386
+Eval test time: 1.009207
+Test AUC: 0.789063
+Test loss: 0.601491
+Eval train time: 1.921586
+Train AUC: 0.903204
+Train loss: 0.428820
+Loop time: 21.302370 (1:21:39.563851 left)
+Memory usage: 0.519gb (556756992)
+Best test AUC/RMSD: 0.789063 inf   Best train loss: 0.428820
+
+Iteration 840
+Train time: 18.494498
+Eval test time: 1.015316
+Test AUC: 0.805230
+Test loss: 0.574910
+Eval train time: 1.920907
+Train AUC: 0.910006
+Train loss: 0.383547
+Loop time: 21.430893 (1:21:19.662023 left)
+Memory usage: 0.519gb (556756992)
+Best test AUC/RMSD: 0.805230 inf   Best train loss: 0.383547
+I0417 21:54:34.368046 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 14.4697 > 10) by scale factor 0.691101
+I0417 21:54:36.675611 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.0045 > 10) by scale factor 0.999546
+
+Iteration 880
+Train time: 18.488780
+Eval test time: 1.007978
+Test AUC: 0.799479
+Test loss: 0.631749
+Eval train time: 1.920773
+Train AUC: 0.907482
+Train loss: 0.385850
+Loop time: 21.417710 (1:20:59.484563 left)
+Memory usage: 0.520gb (558379008)
+Best test AUC/RMSD: 0.805230 inf   Best train loss: 0.383547
+
+Iteration 920
+Train time: 18.502754
+Eval test time: 1.010849
+Test AUC: 0.813585
+Test loss: 0.583423
+Eval train time: 1.922044
+Train AUC: 0.930811
+Train loss: 0.351981
+Loop time: 21.435828 (1:20:39.378074 left)
+Memory usage: 0.521gb (558919680)
+Best test AUC/RMSD: 0.813585 inf   Best train loss: 0.351981
+
+Iteration 960
+Train time: 18.502085
+Eval test time: 0.963315
+Test AUC: 0.787326
+Test loss: 0.839893
+Eval train time: 1.898377
+Train AUC: 0.921432
+Train loss: 0.416962
+Loop time: 21.363957 (1:20:18.484024 left)
+Memory usage: 0.521gb (559460352)
+Best test AUC/RMSD: 0.813585 inf   Best train loss: 0.351981
+I0417 21:55:45.111038 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.0408 > 10) by scale factor 0.905732
+I0417 21:55:46.037489 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.1541 > 10) by scale factor 0.822768
+I0417 21:55:46.959702 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.5361 > 10) by scale factor 0.866847
+
+Iteration 1000
+Train time: 18.504591
+Eval test time: 1.013802
+Test AUC: 0.789822
+Test loss: 0.589257
+Eval train time: 1.909882
+Train AUC: 0.942874
+Train loss: 0.346511
+Loop time: 21.428458 (1:19:58.132888 left)
+Memory usage: 0.521gb (559460352)
+Best test AUC/RMSD: 0.813585 inf   Best train loss: 0.346511
+I0417 21:56:03.700150 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.0295 > 10) by scale factor 0.767491
+
+Iteration 1040
+Train time: 18.364192
+Eval test time: 1.010367
+Test AUC: 0.793837
+Test loss: 0.694714
+Eval train time: 1.899197
+Train AUC: 0.946381
+Train loss: 0.317217
+Loop time: 21.273935 (1:19:36.367607 left)
+Memory usage: 0.521gb (559460352)
+Best test AUC/RMSD: 0.813585 inf   Best train loss: 0.317217
+I0417 21:56:19.485779 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.6057 > 10) by scale factor 0.734985
+I0417 21:56:25.445201 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.3081 > 10) by scale factor 0.970112
+I0417 21:56:26.361883 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.0404 > 10) by scale factor 0.830535
+
+Iteration 1080
+Train time: 18.359456
+Eval test time: 0.962817
+Test AUC: 0.805881
+Test loss: 0.671688
+Eval train time: 1.895849
+Train AUC: 0.951987
+Train loss: 0.342905
+Loop time: 21.218299 (1:19:14.179210 left)
+Memory usage: 0.521gb (559460352)
+Best test AUC/RMSD: 0.813585 inf   Best train loss: 0.317217
+I0417 21:56:37.510231 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.4296 > 10) by scale factor 0.874921
+I0417 21:56:49.894577 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.86 > 10) by scale factor 0.7215
+I0417 21:56:51.268592 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.8821 > 10) by scale factor 0.918938
+
+Iteration 1120
+Train time: 18.362193
+Eval test time: 0.964151
+Test AUC: 0.807509
+Test loss: 0.623148
+Eval train time: 1.899840
+Train AUC: 0.954937
+Train loss: 0.318730
+Loop time: 21.226357 (1:18:52.123993 left)
+Memory usage: 0.521gb (559460352)
+Best test AUC/RMSD: 0.813585 inf   Best train loss: 0.317217
+I0417 21:56:58.751730 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.0088 > 10) by scale factor 0.999124
+I0417 21:56:59.209950 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.7933 > 10) by scale factor 0.926499
+
+Iteration 1160
+Train time: 18.360679
+Eval test time: 0.961692
+Test AUC: 0.814562
+Test loss: 0.766667
+Eval train time: 1.900253
+Train AUC: 0.950632
+Train loss: 0.402297
+Loop time: 21.222805 (1:18:30.098871 left)
+Memory usage: 0.521gb (559460352)
+Best test AUC/RMSD: 0.814562 inf   Best train loss: 0.317217
+
+Iteration 1200
+Train time: 18.362624
+Eval test time: 1.008109
+Test AUC: 0.816840
+Test loss: 0.723833
+Eval train time: 1.895493
+Train AUC: 0.967159
+Train loss: 0.252696
+Loop time: 21.266405 (1:18:08.446969 left)
+Memory usage: 0.521gb (559460352)
+Best test AUC/RMSD: 0.816840 inf   Best train loss: 0.252696
+
+Iteration 1240
+Train time: 18.358714
+Eval test time: 1.012718
+Test AUC: 0.803277
+Test loss: 0.726992
+Eval train time: 1.900472
+Train AUC: 0.967797
+Train loss: 0.248086
+Loop time: 21.272084 (1:17:46.860057 left)
+Memory usage: 0.521gb (559460352)
+Best test AUC/RMSD: 0.816840 inf   Best train loss: 0.248086
+I0417 21:58:04.393391 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.9796 > 10) by scale factor 0.83475
+I0417 21:58:14.944577 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.0726 > 10) by scale factor 0.828319
+I0417 21:58:15.859056 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.3883 > 10) by scale factor 0.962619
+
+Iteration 1280
+Train time: 18.361834
+Eval test time: 0.963683
+Test AUC: 0.791667
+Test loss: 0.693953
+Eval train time: 1.921649
+Train AUC: 0.965007
+Train loss: 0.267917
+Loop time: 21.247336 (1:17:25.124226 left)
+Memory usage: 0.521gb (559460352)
+Best test AUC/RMSD: 0.816840 inf   Best train loss: 0.248086
+
+Iteration 1320
+Train time: 18.501288
+Eval test time: 1.010588
+Test AUC: 0.821343
+Test loss: 0.727467
+Eval train time: 1.905766
+Train AUC: 0.975688
+Train loss: 0.216115
+Loop time: 21.417817 (1:17:04.539043 left)
+Memory usage: 0.521gb (559460352)
+Best test AUC/RMSD: 0.821343 inf   Best train loss: 0.216115
+I0417 21:58:50.763612 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.4025 > 10) by scale factor 0.96131
+
+Iteration 1360
+Train time: 18.376784
+Eval test time: 1.008102
+Test AUC: 0.817546
+Test loss: 0.834826
+Eval train time: 1.924898
+Train AUC: 0.975449
+Train loss: 0.202085
+Loop time: 21.309960 (1:16:43.219671 left)
+Memory usage: 0.521gb (559460352)
+Best test AUC/RMSD: 0.821343 inf   Best train loss: 0.202085
+
+Iteration 1400
+Train time: 18.529612
+Eval test time: 1.060204
+Test AUC: 0.834039
+Test loss: 0.776763
+Eval train time: 1.946889
+Train AUC: 0.968195
+Train loss: 0.229811
+Loop time: 21.536885 (1:16:23.294807 left)
+Memory usage: 0.521gb (559460352)
+Best test AUC/RMSD: 0.834039 inf   Best train loss: 0.202085
+I0417 21:59:41.233687 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.7343 > 10) by scale factor 0.93159
+I0417 21:59:44.006215 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 15.5492 > 10) by scale factor 0.643121
+
+Iteration 1440
+Train time: 18.660961
+Eval test time: 1.008992
+Test AUC: 0.815321
+Test loss: 0.810654
+Eval train time: 1.938800
+Train AUC: 0.971198
+Train loss: 0.309544
+Loop time: 21.608939 (1:16:03.708706 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.834039 inf   Best train loss: 0.202085
+
+Iteration 1480
+Train time: 18.467051
+Eval test time: 1.008702
+Test AUC: 0.838867
+Test loss: 0.839516
+Eval train time: 1.954729
+Train AUC: 0.973244
+Train loss: 0.315823
+Loop time: 21.430645 (1:15:42.986867 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.202085
+I0417 22:00:24.365227 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.4306 > 10) by scale factor 0.804467
+I0417 22:00:25.332247 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.3249 > 10) by scale factor 0.968533
+I0417 22:00:27.179080 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.2349 > 10) by scale factor 0.977047
+
+Iteration 1520
+Train time: 18.756023
+Eval test time: 1.010755
+Test AUC: 0.811578
+Test loss: 0.790197
+Eval train time: 1.967864
+Train AUC: 0.977070
+Train loss: 0.217847
+Loop time: 21.734815 (1:15:23.924672 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.202085
+
+Iteration 1560
+Train time: 18.666134
+Eval test time: 0.999947
+Test AUC: 0.820692
+Test loss: 0.894353
+Eval train time: 1.920556
+Train AUC: 0.982756
+Train loss: 0.188179
+Loop time: 21.586823 (1:15:03.924745 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.188179
+
+Iteration 1600
+Train time: 18.785860
+Eval test time: 1.011511
+Test AUC: 0.803006
+Test loss: 1.279101
+Eval train time: 1.996441
+Train AUC: 0.971623
+Train loss: 0.311281
+Loop time: 21.793989 (1:14:44.933094 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.188179
+
+Iteration 1640
+Train time: 18.726121
+Eval test time: 1.089105
+Test AUC: 0.823405
+Test loss: 0.977944
+Eval train time: 2.034962
+Train AUC: 0.976007
+Train loss: 0.290184
+Loop time: 21.850369 (1:14:26.092145 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.188179
+
+Iteration 1680
+Train time: 18.698453
+Eval test time: 1.009186
+Test AUC: 0.823513
+Test loss: 0.919485
+Eval train time: 1.983160
+Train AUC: 0.977761
+Train loss: 0.203882
+Loop time: 21.690973 (1:14:06.318499 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.188179
+
+Iteration 1720
+Train time: 18.575253
+Eval test time: 0.964534
+Test AUC: 0.819553
+Test loss: 1.077850
+Eval train time: 2.025313
+Train AUC: 0.978319
+Train loss: 0.368784
+Loop time: 21.565252 (1:13:45.850461 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.188179
+I0417 22:02:22.021210 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 15.0568 > 10) by scale factor 0.664153
+I0417 22:02:22.505111 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.349 > 10) by scale factor 0.809783
+I0417 22:02:23.423038 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.3497 > 10) by scale factor 0.881077
+I0417 22:02:23.879798 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.1585 > 10) by scale factor 0.984397
+I0417 22:02:26.193017 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.6409 > 10) by scale factor 0.859043
+
+Iteration 1760
+Train time: 18.629210
+Eval test time: 1.007137
+Test AUC: 0.822483
+Test loss: 0.801378
+Eval train time: 1.922600
+Train AUC: 0.975476
+Train loss: 0.224851
+Loop time: 21.559116 (1:13:25.303821 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.188179
+
+Iteration 1800
+Train time: 18.473030
+Eval test time: 0.993996
+Test AUC: 0.823296
+Test loss: 0.952499
+Eval train time: 2.022060
+Train AUC: 0.981879
+Train loss: 0.198647
+Loop time: 21.489272 (1:13:04.394004 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.188179
+
+Iteration 1840
+Train time: 18.803953
+Eval test time: 1.078476
+Test AUC: 0.817817
+Test loss: 1.176199
+Eval train time: 1.978133
+Train AUC: 0.982995
+Train loss: 0.165912
+Loop time: 21.860741 (1:12:45.106378 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.165912
+
+Iteration 1880
+Train time: 18.626538
+Eval test time: 1.058272
+Test AUC: 0.836100
+Test loss: 0.881413
+Eval train time: 1.982177
+Train AUC: 0.984669
+Train loss: 0.159800
+Loop time: 21.667156 (1:12:24.873137 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.159800
+I0417 22:03:47.775002 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.1363 > 10) by scale factor 0.986555
+I0417 22:04:01.408473 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.2452 > 10) by scale factor 0.889271
+
+Iteration 1920
+Train time: 18.810488
+Eval test time: 1.008953
+Test AUC: 0.828288
+Test loss: 0.889093
+Eval train time: 1.995895
+Train AUC: 0.985307
+Train loss: 0.164664
+Loop time: 21.815501 (1:12:05.204433 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.159800
+I0417 22:04:11.844951 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.6349 > 10) by scale factor 0.9403
+I0417 22:04:16.943794 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.5499 > 10) by scale factor 0.947873
+
+Iteration 1960
+Train time: 18.536895
+Eval test time: 0.962660
+Test AUC: 0.823568
+Test loss: 0.979638
+Eval train time: 1.893302
+Train AUC: 0.988336
+Train loss: 0.156320
+Loop time: 21.393034 (1:11:43.715128 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.156320
+I0417 22:04:37.907549 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.3393 > 10) by scale factor 0.881885
+I0417 22:04:39.280028 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.4267 > 10) by scale factor 0.959077
+I0417 22:04:41.119248 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.9298 > 10) by scale factor 0.914927
+
+Iteration 2000
+Train time: 18.524723
+Eval test time: 1.043353
+Test AUC: 0.796332
+Test loss: 1.182396
+Eval train time: 2.015536
+Train AUC: 0.985147
+Train loss: 0.238998
+Loop time: 21.583780 (1:11:22.992658 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.156320
+I0417 22:04:55.857679 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.0372 > 10) by scale factor 0.996292
+I0417 22:04:57.231962 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.2073 > 10) by scale factor 0.979688
+I0417 22:04:59.527474 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.7634 > 10) by scale factor 0.929072
+
+Iteration 2040
+Train time: 18.553590
+Eval test time: 1.086462
+Test AUC: 0.814399
+Test loss: 0.973323
+Eval train time: 1.967770
+Train AUC: 0.986476
+Train loss: 0.151951
+Loop time: 21.608009 (1:11:02.330952 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.151951
+I0417 22:05:27.541707 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.0429 > 10) by scale factor 0.905557
+I0417 22:05:29.384076 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.3999 > 10) by scale factor 0.96155
+I0417 22:05:30.788309 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.2908 > 10) by scale factor 0.752401
+
+Iteration 2080
+Train time: 18.450624
+Eval test time: 0.966971
+Test AUC: 0.822483
+Test loss: 1.032487
+Eval train time: 1.941185
+Train AUC: 0.983952
+Train loss: 0.301161
+Loop time: 21.358947 (1:10:40.684497 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.151951
+I0417 22:05:35.571487 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.2479 > 10) by scale factor 0.889057
+
+Iteration 2120
+Train time: 18.575774
+Eval test time: 1.020038
+Test AUC: 0.819933
+Test loss: 1.065379
+Eval train time: 1.906281
+Train AUC: 0.993198
+Train loss: 0.129713
+Loop time: 21.502268 (1:10:19.581613 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.129713
+I0417 22:06:08.721339 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.4527 > 10) by scale factor 0.956686
+
+Iteration 2160
+Train time: 18.520522
+Eval test time: 0.965050
+Test AUC: 0.819282
+Test loss: 1.250980
+Eval train time: 1.894651
+Train AUC: 0.990621
+Train loss: 0.135134
+Loop time: 21.380404 (1:09:58.021617 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.129713
+
+Iteration 2200
+Train time: 18.361008
+Eval test time: 1.010273
+Test AUC: 0.805067
+Test loss: 1.136076
+Eval train time: 1.898940
+Train AUC: 0.990036
+Train loss: 0.150259
+Loop time: 21.270401 (1:09:36.078140 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.129713
+I0417 22:06:43.906378 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 21.7478 > 10) by scale factor 0.459816
+I0417 22:06:45.738438 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.2115 > 10) by scale factor 0.756913
+
+Iteration 2240
+Train time: 18.366450
+Eval test time: 1.006888
+Test AUC: 0.803277
+Test loss: 1.285553
+Eval train time: 1.924020
+Train AUC: 0.986981
+Train loss: 0.183490
+Loop time: 21.297538 (1:09:14.252712 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.129713
+I0417 22:07:18.217494 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 14.714 > 10) by scale factor 0.679624
+
+Iteration 2280
+Train time: 18.527580
+Eval test time: 0.966582
+Test AUC: 0.829047
+Test loss: 1.100181
+Eval train time: 1.901120
+Train AUC: 0.988628
+Train loss: 0.173279
+Loop time: 21.395448 (1:08:52.777327 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.129713
+I0417 22:07:36.263590 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.3449 > 10) by scale factor 0.749349
+
+Iteration 2320
+Train time: 18.364769
+Eval test time: 1.008945
+Test AUC: 0.832248
+Test loss: 1.018121
+Eval train time: 1.928161
+Train AUC: 0.993783
+Train loss: 0.115678
+Loop time: 21.302055 (1:08:30.995535 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.115678
+I0417 22:07:45.675544 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.8569 > 10) by scale factor 0.921077
+
+Iteration 2360
+Train time: 18.510022
+Eval test time: 1.010561
+Test AUC: 0.834961
+Test loss: 1.010500
+Eval train time: 1.931035
+Train AUC: 0.993490
+Train loss: 0.135499
+Loop time: 21.451803 (1:08:09.714782 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.115678
+I0417 22:08:10.847373 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.6969 > 10) by scale factor 0.854927
+I0417 22:08:11.769366 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.1903 > 10) by scale factor 0.981325
+I0417 22:08:12.233844 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.4985 > 10) by scale factor 0.869677
+I0417 22:08:15.464762 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.1307 > 10) by scale factor 0.987097
+
+Iteration 2400
+Train time: 18.505022
+Eval test time: 1.013017
+Test AUC: 0.823785
+Test loss: 1.038734
+Eval train time: 1.902796
+Train AUC: 0.994261
+Train loss: 0.139173
+Loop time: 21.421010 (1:07:48.330817 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.115678
+
+Iteration 2440
+Train time: 18.490207
+Eval test time: 1.012313
+Test AUC: 0.826769
+Test loss: 1.138500
+Eval train time: 1.924059
+Train AUC: 0.995589
+Train loss: 0.095193
+Loop time: 21.426761 (1:07:26.963456 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.095193
+
+Iteration 2480
+Train time: 18.509911
+Eval test time: 1.005765
+Test AUC: 0.827637
+Test loss: 1.212091
+Eval train time: 1.927498
+Train AUC: 0.995802
+Train loss: 0.093805
+Loop time: 21.443356 (1:07:05.644499 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.093805
+I0417 22:09:21.552790 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.6957 > 10) by scale factor 0.855017
+I0417 22:09:24.761739 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.6669 > 10) by scale factor 0.937482
+
+Iteration 2520
+Train time: 18.369318
+Eval test time: 0.962281
+Test AUC: 0.830404
+Test loss: 1.053045
+Eval train time: 1.926364
+Train AUC: 0.989531
+Train loss: 0.125018
+Loop time: 21.258147 (1:06:43.771845 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.093805
+I0417 22:09:35.069612 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.3626 > 10) by scale factor 0.965013
+
+Iteration 2560
+Train time: 18.502740
+Eval test time: 1.010689
+Test AUC: 0.834635
+Test loss: 1.156318
+Eval train time: 1.924730
+Train AUC: 0.994952
+Train loss: 0.097827
+Loop time: 21.438337 (1:06:22.442072 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.093805
+
+Iteration 2600
+Train time: 18.508381
+Eval test time: 1.010317
+Test AUC: 0.836046
+Test loss: 1.329722
+Eval train time: 1.927901
+Train AUC: 0.997104
+Train loss: 0.078362
+Loop time: 21.446779 (1:06:01.132986 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.078362
+I0417 22:10:18.961423 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.9632 > 10) by scale factor 0.91214
+I0417 22:10:22.231489 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.8301 > 10) by scale factor 0.723058
+I0417 22:10:22.696636 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.0205 > 10) by scale factor 0.907403
+
+Iteration 2640
+Train time: 18.666233
+Eval test time: 1.022340
+Test AUC: 0.833496
+Test loss: 0.997788
+Eval train time: 1.902140
+Train AUC: 0.992082
+Train loss: 0.166697
+Loop time: 21.590904 (1:05:40.221530 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.078362
+
+Iteration 2680
+Train time: 18.379347
+Eval test time: 1.025306
+Test AUC: 0.818739
+Test loss: 1.267736
+Eval train time: 1.903473
+Train AUC: 0.995589
+Train loss: 0.088710
+Loop time: 21.308379 (1:05:18.518120 left)
+Memory usage: 0.521gb (559726592)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.078362
+I0417 22:11:10.508486 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.7667 > 10) by scale factor 0.849859
+I0417 22:11:12.371553 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.7915 > 10) by scale factor 0.848066
+
+Iteration 2720
+Train time: 18.415185
+Eval test time: 1.009445
+Test AUC: 0.828776
+Test loss: 1.233686
+Eval train time: 1.925070
+Train AUC: 0.994766
+Train loss: 0.092821
+Loop time: 21.349899 (1:04:56.937455 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.078362
+
+Iteration 2760
+Train time: 18.489544
+Eval test time: 1.011691
+Test AUC: 0.832086
+Test loss: 1.237542
+Eval train time: 1.917461
+Train AUC: 0.994208
+Train loss: 0.106854
+Loop time: 21.418880 (1:04:35.544429 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.078362
+
+Iteration 2800
+Train time: 18.500814
+Eval test time: 1.009966
+Test AUC: 0.828451
+Test loss: 1.470767
+Eval train time: 1.927774
+Train AUC: 0.995935
+Train loss: 0.083896
+Loop time: 21.438818 (1:04:14.201934 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.078362
+
+Iteration 2840
+Train time: 18.444409
+Eval test time: 0.962289
+Test AUC: 0.819878
+Test loss: 1.380850
+Eval train time: 1.926648
+Train AUC: 0.995350
+Train loss: 0.099570
+Loop time: 21.333532 (1:03:52.591286 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.078362
+I0417 22:12:34.829197 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.3754 > 10) by scale factor 0.747642
+I0417 22:12:38.987726 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.0653 > 10) by scale factor 0.993514
+
+Iteration 2880
+Train time: 18.493266
+Eval test time: 1.009704
+Test AUC: 0.827311
+Test loss: 1.236483
+Eval train time: 1.924252
+Train AUC: 0.991577
+Train loss: 0.186958
+Loop time: 21.427405 (1:03:31.220410 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.078362
+
+Iteration 2920
+Train time: 18.508847
+Eval test time: 1.013556
+Test AUC: 0.818956
+Test loss: 1.368927
+Eval train time: 1.896555
+Train AUC: 0.996519
+Train loss: 0.108415
+Loop time: 21.419146 (1:03:09.827961 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.078362
+I0417 22:13:18.073463 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.7821 > 10) by scale factor 0.92746
+I0417 22:13:18.534061 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.0259 > 10) by scale factor 0.906957
+
+Iteration 2960
+Train time: 18.358500
+Eval test time: 1.012002
+Test AUC: 0.816026
+Test loss: 1.358610
+Eval train time: 1.895539
+Train AUC: 0.997104
+Train loss: 0.093319
+Loop time: 21.266221 (1:02:48.071076 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.078362
+
+Iteration 3000
+Train time: 18.376707
+Eval test time: 1.012771
+Test AUC: 0.826877
+Test loss: 1.267826
+Eval train time: 1.893781
+Train AUC: 0.996758
+Train loss: 0.087254
+Loop time: 21.283443 (1:02:26.367461 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.078362
+
+Iteration 3040
+Train time: 18.368854
+Eval test time: 1.013106
+Test AUC: 0.832411
+Test loss: 1.390438
+Eval train time: 1.897624
+Train AUC: 0.997502
+Train loss: 0.069224
+Loop time: 21.279767 (1:02:04.666487 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.069224
+I0417 22:14:12.777873 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.683 > 10) by scale factor 0.730834
+I0417 22:14:14.616173 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.7715 > 10) by scale factor 0.782996
+
+Iteration 3080
+Train time: 18.365353
+Eval test time: 0.961867
+Test AUC: 0.822700
+Test loss: 1.306788
+Eval train time: 1.896120
+Train AUC: 0.997184
+Train loss: 0.082574
+Loop time: 21.223520 (1:01:42.850080 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.069224
+
+Iteration 3120
+Train time: 18.441135
+Eval test time: 1.020071
+Test AUC: 0.822374
+Test loss: 1.794552
+Eval train time: 1.898573
+Train AUC: 0.995031
+Train loss: 0.091492
+Loop time: 21.359960 (1:01:21.349742 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.069224
+
+Iteration 3160
+Train time: 18.368186
+Eval test time: 1.007472
+Test AUC: 0.836480
+Test loss: 1.261169
+Eval train time: 1.900245
+Train AUC: 0.997077
+Train loss: 0.093407
+Loop time: 21.276086 (1:00:59.671409 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.069224
+
+Iteration 3200
+Train time: 18.371538
+Eval test time: 0.961380
+Test AUC: 0.822374
+Test loss: 1.465636
+Eval train time: 1.920964
+Train AUC: 0.996360
+Train loss: 0.089381
+Loop time: 21.254064 (1:00:37.956335 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.069224
+
+Iteration 3240
+Train time: 18.620299
+Eval test time: 1.009404
+Test AUC: 0.827908
+Test loss: 1.364312
+Eval train time: 1.896245
+Train AUC: 0.996174
+Train loss: 0.091410
+Loop time: 21.526126 (1:00:16.820280 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.069224
+
+Iteration 3280
+Train time: 18.613117
+Eval test time: 1.007808
+Test AUC: 0.831706
+Test loss: 1.476756
+Eval train time: 1.925416
+Train AUC: 0.997263
+Train loss: 0.077816
+Loop time: 21.546524 (0:59:55.716501 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.069224
+
+Iteration 3320
+Train time: 18.492415
+Eval test time: 1.011415
+Test AUC: 0.818088
+Test loss: 1.532973
+Eval train time: 1.919326
+Train AUC: 0.997768
+Train loss: 0.072741
+Loop time: 21.423410 (0:59:34.354343 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.069224
+I0417 22:16:52.688714 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.4339 > 10) by scale factor 0.958416
+I0417 22:16:54.070456 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.4012 > 10) by scale factor 0.746199
+
+Iteration 3360
+Train time: 18.486249
+Eval test time: 1.007703
+Test AUC: 0.822483
+Test loss: 1.558248
+Eval train time: 1.897674
+Train AUC: 0.998618
+Train loss: 0.058888
+Loop time: 21.391807 (0:59:12.928273 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.058888
+I0417 22:17:15.374487 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.0654 > 10) by scale factor 0.765381
+
+Iteration 3400
+Train time: 18.361863
+Eval test time: 1.013560
+Test AUC: 0.822266
+Test loss: 1.438366
+Eval train time: 1.948121
+Train AUC: 0.997609
+Train loss: 0.100890
+Loop time: 21.323726 (0:58:51.370852 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.058888
+I0417 22:17:22.052629 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.0211 > 10) by scale factor 0.997898
+
+Iteration 3440
+Train time: 18.524777
+Eval test time: 1.006085
+Test AUC: 0.817546
+Test loss: 1.619507
+Eval train time: 1.922430
+Train AUC: 0.999070
+Train loss: 0.051770
+Loop time: 21.453467 (0:58:30.066278 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.051770
+I0417 22:18:00.151968 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.2318 > 10) by scale factor 0.977348
+
+Iteration 3480
+Train time: 18.501530
+Eval test time: 1.005730
+Test AUC: 0.827040
+Test loss: 1.719830
+Eval train time: 1.921621
+Train AUC: 0.994527
+Train loss: 0.094726
+Loop time: 21.429219 (0:58:08.712851 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.051770
+
+Iteration 3520
+Train time: 18.885351
+Eval test time: 1.009888
+Test AUC: 0.821506
+Test loss: 1.569914
+Eval train time: 1.922759
+Train AUC: 0.998857
+Train loss: 0.059712
+Loop time: 21.818176 (0:57:48.073737 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.051770
+
+Iteration 3560
+Train time: 18.830890
+Eval test time: 1.194293
+Test AUC: 0.820421
+Test loss: 1.480516
+Eval train time: 2.148952
+Train AUC: 0.998167
+Train loss: 0.070302
+Loop time: 22.174328 (0:57:28.052401 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.051770
+
+Iteration 3600
+Train time: 18.497605
+Eval test time: 1.009406
+Test AUC: 0.813911
+Test loss: 1.678432
+Eval train time: 1.896656
+Train AUC: 0.997848
+Train loss: 0.069136
+Loop time: 21.403844 (0:57:06.613472 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.051770
+I0417 22:19:12.696844 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.6979 > 10) by scale factor 0.934761
+I0417 22:19:14.071118 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.3568 > 10) by scale factor 0.80927
+
+Iteration 3640
+Train time: 18.369928
+Eval test time: 1.014347
+Test AUC: 0.815864
+Test loss: 1.561133
+Eval train time: 1.899407
+Train AUC: 0.997210
+Train loss: 0.071245
+Loop time: 21.283866 (0:56:44.965683 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.051770
+I0417 22:19:45.453572 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.6623 > 10) by scale factor 0.789747
+
+Iteration 3680
+Train time: 18.365148
+Eval test time: 1.005565
+Test AUC: 0.835503
+Test loss: 1.382366
+Eval train time: 1.921733
+Train AUC: 0.997635
+Train loss: 0.099122
+Loop time: 21.292631 (0:56:23.340858 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.051770
+
+Iteration 3720
+Train time: 18.498813
+Eval test time: 1.010428
+Test AUC: 0.819336
+Test loss: 1.782008
+Eval train time: 1.924566
+Train AUC: 0.998804
+Train loss: 0.065355
+Loop time: 21.433964 (0:56:01.961771 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.051770
+I0417 22:20:15.389679 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 17.7556 > 10) by scale factor 0.563203
+
+Iteration 3760
+Train time: 18.497470
+Eval test time: 1.008061
+Test AUC: 0.820801
+Test loss: 2.119928
+Eval train time: 1.924713
+Train AUC: 0.995563
+Train loss: 0.092653
+Loop time: 21.430423 (0:55:40.575640 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.051770
+
+Iteration 3800
+Train time: 18.489047
+Eval test time: 1.005920
+Test AUC: 0.817383
+Test loss: 1.661507
+Eval train time: 1.925057
+Train AUC: 0.997715
+Train loss: 0.090644
+Loop time: 21.420182 (0:55:19.171867 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.051770
+
+Iteration 3840
+Train time: 18.491489
+Eval test time: 1.010184
+Test AUC: 0.825684
+Test loss: 1.448228
+Eval train time: 1.924052
+Train AUC: 0.998379
+Train loss: 0.076852
+Loop time: 21.425897 (0:54:57.776921 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.051770
+I0417 22:21:22.036036 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.2731 > 10) by scale factor 0.81479
+I0417 22:21:23.421600 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.2254 > 10) by scale factor 0.890838
+
+Iteration 3880
+Train time: 18.498481
+Eval test time: 1.008888
+Test AUC: 0.815213
+Test loss: 1.843978
+Eval train time: 1.895787
+Train AUC: 0.996493
+Train loss: 0.092903
+Loop time: 21.403333 (0:54:36.345745 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.051770
+I0417 22:21:47.077073 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.161 > 10) by scale factor 0.895977
+
+Iteration 3920
+Train time: 18.356750
+Eval test time: 1.007811
+Test AUC: 0.818685
+Test loss: 1.871509
+Eval train time: 1.901236
+Train AUC: 0.998618
+Train loss: 0.050673
+Loop time: 21.265981 (0:54:14.702102 left)
+Memory usage: 0.522gb (559988736)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.050673
+
+Iteration 3960
+Train time: 18.370259
+Eval test time: 1.008467
+Test AUC: 0.824544
+Test loss: 1.629982
+Eval train time: 1.900555
+Train AUC: 0.997768
+Train loss: 0.059871
+Loop time: 21.279470 (0:53:53.086663 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.050673
+
+Iteration 4000
+Train time: 18.364814
+Eval test time: 1.010619
+Test AUC: 0.821126
+Test loss: 2.095157
+Eval train time: 1.898243
+Train AUC: 0.997688
+Train loss: 0.064292
+Loop time: 21.273905 (0:53:31.469596 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.050673
+I0417 22:22:44.985580 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.3258 > 10) by scale factor 0.96845
+
+Iteration 4040
+Train time: 18.365757
+Eval test time: 1.009932
+Test AUC: 0.828234
+Test loss: 1.518716
+Eval train time: 1.898409
+Train AUC: 0.998300
+Train loss: 0.055229
+Loop time: 21.274289 (0:53:09.859890 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.050673
+
+Iteration 4080
+Train time: 18.360938
+Eval test time: 1.012136
+Test AUC: 0.827257
+Test loss: 1.740452
+Eval train time: 1.896130
+Train AUC: 0.997130
+Train loss: 0.063253
+Loop time: 21.269389 (0:52:48.249651 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.838867 inf   Best train loss: 0.050673
+
+Iteration 4120
+Train time: 18.365906
+Eval test time: 0.961997
+Test AUC: 0.841309
+Test loss: 1.640190
+Eval train time: 1.898280
+Train AUC: 0.995988
+Train loss: 0.145999
+Loop time: 21.226370 (0:52:26.584635 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.841309 inf   Best train loss: 0.050673
+I0417 22:23:46.967581 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.2707 > 10) by scale factor 0.973641
+
+Iteration 4160
+Train time: 18.362295
+Eval test time: 1.010530
+Test AUC: 0.834798
+Test loss: 1.670289
+Eval train time: 1.924253
+Train AUC: 0.998432
+Train loss: 0.056456
+Loop time: 21.297265 (0:52:05.027580 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.841309 inf   Best train loss: 0.050673
+
+Iteration 4200
+Train time: 18.491890
+Eval test time: 1.008852
+Test AUC: 0.826226
+Test loss: 1.613060
+Eval train time: 1.901188
+Train AUC: 0.998698
+Train loss: 0.058881
+Loop time: 21.402112 (0:51:43.620262 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.841309 inf   Best train loss: 0.050673
+
+Iteration 4240
+Train time: 18.356015
+Eval test time: 1.010376
+Test AUC: 0.832465
+Test loss: 1.671003
+Eval train time: 1.926298
+Train AUC: 0.997237
+Train loss: 0.082865
+Loop time: 21.292876 (0:51:22.064646 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.841309 inf   Best train loss: 0.050673
+
+Iteration 4280
+Train time: 18.363917
+Eval test time: 0.961932
+Test AUC: 0.842122
+Test loss: 1.563159
+Eval train time: 1.923224
+Train AUC: 0.999256
+Train loss: 0.073754
+Loop time: 21.249271 (0:51:00.455666 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.050673
+
+Iteration 4320
+Train time: 18.475737
+Eval test time: 1.006626
+Test AUC: 0.827799
+Test loss: 1.850260
+Eval train time: 1.895959
+Train AUC: 0.998911
+Train loss: 0.044563
+Loop time: 21.378509 (0:50:39.023271 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.044563
+
+Iteration 4360
+Train time: 18.359372
+Eval test time: 1.009870
+Test AUC: 0.824978
+Test loss: 1.746767
+Eval train time: 1.926348
+Train AUC: 0.999070
+Train loss: 0.045301
+Loop time: 21.295775 (0:50:17.484841 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.044563
+
+Iteration 4400
+Train time: 18.500889
+Eval test time: 1.007442
+Test AUC: 0.827257
+Test loss: 1.771313
+Eval train time: 1.920678
+Train AUC: 0.998618
+Train loss: 0.055691
+Loop time: 21.429182 (0:49:56.120614 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.044563
+I0417 22:26:31.220167 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.1755 > 10) by scale factor 0.82132
+
+Iteration 4440
+Train time: 18.506222
+Eval test time: 1.006473
+Test AUC: 0.835612
+Test loss: 1.617067
+Eval train time: 1.922178
+Train AUC: 0.998831
+Train loss: 0.057579
+Loop time: 21.435146 (0:49:34.762686 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.044563
+I0417 22:26:42.030910 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.5421 > 10) by scale factor 0.866394
+
+Iteration 4480
+Train time: 18.484789
+Eval test time: 1.011017
+Test AUC: 0.827799
+Test loss: 1.779544
+Eval train time: 1.925828
+Train AUC: 0.998167
+Train loss: 0.082316
+Loop time: 21.421802 (0:49:13.386937 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.044563
+
+Iteration 4520
+Train time: 18.501571
+Eval test time: 1.011962
+Test AUC: 0.820909
+Test loss: 1.984896
+Eval train time: 1.929875
+Train AUC: 0.999708
+Train loss: 0.033522
+Loop time: 21.443638 (0:48:52.036846 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.033522
+I0417 22:27:36.566169 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.0528 > 10) by scale factor 0.994752
+
+Iteration 4560
+Train time: 18.602458
+Eval test time: 1.011342
+Test AUC: 0.819770
+Test loss: 2.025809
+Eval train time: 1.928643
+Train AUC: 0.998964
+Train loss: 0.056859
+Loop time: 21.542627 (0:48:30.803206 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.033522
+I0417 22:27:42.791129 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.033 > 10) by scale factor 0.90637
+I0417 22:27:43.247990 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.3598 > 10) by scale factor 0.96527
+I0417 22:27:44.181633 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.4055 > 10) by scale factor 0.961031
+I0417 22:27:44.641223 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 15.1775 > 10) by scale factor 0.658871
+I0417 22:27:50.702054 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 15.3458 > 10) by scale factor 0.651645
+I0417 22:27:58.582530 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 14.5314 > 10) by scale factor 0.688166
+
+Iteration 4600
+Train time: 18.614147
+Eval test time: 1.080451
+Test AUC: 0.812120
+Test loss: 1.829131
+Eval train time: 1.922737
+Train AUC: 0.999283
+Train loss: 0.048222
+Loop time: 21.617522 (0:48:09.652113 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.033522
+
+Iteration 4640
+Train time: 18.662671
+Eval test time: 1.126989
+Test AUC: 0.833930
+Test loss: 1.573398
+Eval train time: 1.917246
+Train AUC: 0.999495
+Train loss: 0.038205
+Loop time: 21.707089 (0:47:48.596443 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.033522
+
+Iteration 4680
+Train time: 18.773792
+Eval test time: 1.046278
+Test AUC: 0.822374
+Test loss: 1.753090
+Eval train time: 1.917305
+Train AUC: 0.999761
+Train loss: 0.032971
+Loop time: 21.737603 (0:47:27.564325 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032971
+
+Iteration 4720
+Train time: 18.670014
+Eval test time: 1.012607
+Test AUC: 0.822428
+Test loss: 2.060653
+Eval train time: 1.971359
+Train AUC: 0.999708
+Train loss: 0.033606
+Loop time: 21.654165 (0:47:06.426912 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032971
+
+Iteration 4760
+Train time: 18.753448
+Eval test time: 1.072666
+Test AUC: 0.827040
+Test loss: 1.781558
+Eval train time: 1.929857
+Train AUC: 0.999362
+Train loss: 0.038577
+Loop time: 21.756155 (0:46:45.393089 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032971
+I0417 22:29:37.881508 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.1826 > 10) by scale factor 0.758577
+I0417 22:29:39.757795 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 21.2965 > 10) by scale factor 0.469561
+
+Iteration 4800
+Train time: 18.714733
+Eval test time: 1.021593
+Test AUC: 0.826443
+Test loss: 1.657723
+Eval train time: 1.964940
+Train AUC: 0.999655
+Train loss: 0.040277
+Loop time: 21.701448 (0:46:24.287961 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032971
+
+Iteration 4840
+Train time: 18.767779
+Eval test time: 1.009132
+Test AUC: 0.819933
+Test loss: 1.982511
+Eval train time: 1.949138
+Train AUC: 0.999362
+Train loss: 0.047140
+Loop time: 21.726236 (0:46:03.199403 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032971
+I0417 22:30:15.297652 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.4159 > 10) by scale factor 0.960073
+
+Iteration 4880
+Train time: 18.588593
+Eval test time: 1.020299
+Test AUC: 0.816623
+Test loss: 2.217475
+Eval train time: 1.907448
+Train AUC: 0.999548
+Train loss: 0.036272
+Loop time: 21.516509 (0:45:41.880350 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032971
+
+Iteration 4920
+Train time: 18.563756
+Eval test time: 0.961658
+Test AUC: 0.829427
+Test loss: 1.615185
+Eval train time: 1.970206
+Train AUC: 0.999017
+Train loss: 0.045919
+Loop time: 21.495799 (0:45:20.536703 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032971
+
+Iteration 4960
+Train time: 18.646250
+Eval test time: 0.977650
+Test AUC: 0.821181
+Test loss: 2.122026
+Eval train time: 1.926846
+Train AUC: 0.999867
+Train loss: 0.032784
+Loop time: 21.550924 (0:44:59.246616 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+
+Iteration 5000
+Train time: 18.611032
+Eval test time: 0.962501
+Test AUC: 0.829536
+Test loss: 1.892998
+Eval train time: 1.933140
+Train AUC: 0.999283
+Train loss: 0.057148
+Loop time: 21.510970 (0:44:37.912402 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+
+Iteration 5040
+Train time: 18.558394
+Eval test time: 0.961390
+Test AUC: 0.824110
+Test loss: 2.277548
+Eval train time: 1.898491
+Train AUC: 0.998911
+Train loss: 0.047996
+Loop time: 21.418456 (0:44:16.484336 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+
+Iteration 5080
+Train time: 18.603411
+Eval test time: 1.060005
+Test AUC: 0.821615
+Test loss: 1.874311
+Eval train time: 1.947504
+Train AUC: 0.999575
+Train loss: 0.043006
+Loop time: 21.611113 (0:43:55.243011 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+
+Iteration 5120
+Train time: 18.730371
+Eval test time: 1.061529
+Test AUC: 0.829807
+Test loss: 1.825673
+Eval train time: 1.967863
+Train AUC: 0.999123
+Train loss: 0.040298
+Loop time: 21.759949 (0:43:34.137767 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+I0417 22:33:00.319507 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.4528 > 10) by scale factor 0.956678
+
+Iteration 5160
+Train time: 18.736253
+Eval test time: 1.006385
+Test AUC: 0.822103
+Test loss: 2.049707
+Eval train time: 1.924191
+Train AUC: 0.999495
+Train loss: 0.046049
+Loop time: 21.666999 (0:43:12.935187 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+I0417 22:33:09.793380 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.3125 > 10) by scale factor 0.883976
+I0417 22:33:13.470407 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.6612 > 10) by scale factor 0.789814
+I0417 22:33:16.232924 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.0292 > 10) by scale factor 0.997084
+I0417 22:33:23.654527 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.2839 > 10) by scale factor 0.972395
+
+Iteration 5200
+Train time: 18.535712
+Eval test time: 1.003132
+Test AUC: 0.805067
+Test loss: 2.480990
+Eval train time: 1.977360
+Train AUC: 0.998273
+Train loss: 0.112182
+Loop time: 21.516385 (0:42:51.586434 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+I0417 22:33:35.558562 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.4493 > 10) by scale factor 0.803255
+
+Iteration 5240
+Train time: 18.735857
+Eval test time: 1.009440
+Test AUC: 0.827582
+Test loss: 1.637767
+Eval train time: 1.973313
+Train AUC: 0.997688
+Train loss: 0.074890
+Loop time: 21.718794 (0:42:30.418989 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+
+Iteration 5280
+Train time: 18.648586
+Eval test time: 1.024005
+Test AUC: 0.829319
+Test loss: 1.809486
+Eval train time: 1.991514
+Train AUC: 0.999469
+Train loss: 0.038943
+Loop time: 21.664286 (0:42:09.194464 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+I0417 22:34:20.294829 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.9786 > 10) by scale factor 0.910859
+
+Iteration 5320
+Train time: 18.552162
+Eval test time: 1.014319
+Test AUC: 0.824870
+Test loss: 1.843676
+Eval train time: 1.932969
+Train AUC: 0.999708
+Train loss: 0.036609
+Loop time: 21.499609 (0:41:47.818460 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+
+Iteration 5360
+Train time: 18.818644
+Eval test time: 1.022482
+Test AUC: 0.827040
+Test loss: 1.625532
+Eval train time: 2.016584
+Train AUC: 0.998990
+Train loss: 0.072278
+Loop time: 21.857893 (0:41:26.750767 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+
+Iteration 5400
+Train time: 18.634185
+Eval test time: 1.030658
+Test AUC: 0.831217
+Test loss: 1.821068
+Eval train time: 2.049794
+Train AUC: 0.999176
+Train loss: 0.039397
+Loop time: 21.714804 (0:41:05.549476 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+
+Iteration 5440
+Train time: 18.767857
+Eval test time: 1.016139
+Test AUC: 0.830566
+Test loss: 1.724087
+Eval train time: 1.965156
+Train AUC: 0.999628
+Train loss: 0.041162
+Loop time: 21.749331 (0:40:44.369576 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.032784
+
+Iteration 5480
+Train time: 18.846715
+Eval test time: 1.013904
+Test AUC: 0.821235
+Test loss: 2.114064
+Eval train time: 1.985310
+Train AUC: 0.999708
+Train loss: 0.030053
+Loop time: 21.846109 (0:40:23.261187 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.030053
+
+Iteration 5520
+Train time: 18.601157
+Eval test time: 1.031782
+Test AUC: 0.827148
+Test loss: 1.880508
+Eval train time: 1.914259
+Train AUC: 0.999548
+Train loss: 0.038251
+Loop time: 21.547378 (0:40:01.899659 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.030053
+
+Iteration 5560
+Train time: 18.474674
+Eval test time: 1.043422
+Test AUC: 0.831217
+Test loss: 1.859753
+Eval train time: 1.951097
+Train AUC: 0.999814
+Train loss: 0.029215
+Loop time: 21.469382 (0:39:40.473171 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.029215
+
+Iteration 5600
+Train time: 18.675148
+Eval test time: 1.010899
+Test AUC: 0.815050
+Test loss: 2.119712
+Eval train time: 1.934571
+Train AUC: 0.999761
+Train loss: 0.030448
+Loop time: 21.620795 (0:39:19.165038 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.029215
+
+Iteration 5640
+Train time: 18.736394
+Eval test time: 1.001996
+Test AUC: 0.820692
+Test loss: 2.170323
+Eval train time: 1.910060
+Train AUC: 0.999309
+Train loss: 0.039594
+Loop time: 21.648717 (0:38:57.874055 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.029215
+
+Iteration 5680
+Train time: 18.683347
+Eval test time: 0.962986
+Test AUC: 0.819065
+Test loss: 2.448157
+Eval train time: 1.906441
+Train AUC: 0.999628
+Train loss: 0.048373
+Loop time: 21.552951 (0:38:36.505198 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.029215
+
+Iteration 5720
+Train time: 18.727858
+Eval test time: 1.008244
+Test AUC: 0.831055
+Test loss: 1.854372
+Eval train time: 1.966371
+Train AUC: 0.999309
+Train loss: 0.035436
+Loop time: 21.702656 (0:38:15.245783 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.029215
+
+Iteration 5760
+Train time: 18.867195
+Eval test time: 1.104441
+Test AUC: 0.819933
+Test loss: 2.162335
+Eval train time: 2.001843
+Train AUC: 0.999575
+Train loss: 0.035977
+Loop time: 21.973661 (0:37:54.179701 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.029215
+
+Iteration 5800
+Train time: 18.667666
+Eval test time: 1.014451
+Test AUC: 0.829427
+Test loss: 2.045858
+Eval train time: 1.933298
+Train AUC: 0.999841
+Train loss: 0.025600
+Loop time: 21.615576 (0:37:32.841798 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.025600
+
+Iteration 5840
+Train time: 18.550002
+Eval test time: 0.961409
+Test AUC: 0.838270
+Test loss: 1.970202
+Eval train time: 1.936086
+Train AUC: 0.999469
+Train loss: 0.053903
+Loop time: 21.447664 (0:37:11.380483 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.025600
+
+Iteration 5880
+Train time: 18.466129
+Eval test time: 1.042849
+Test AUC: 0.824653
+Test loss: 1.969691
+Eval train time: 1.940862
+Train AUC: 0.999522
+Train loss: 0.035339
+Loop time: 21.450001 (0:36:49.920992 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.025600
+
+Iteration 5920
+Train time: 18.629588
+Eval test time: 0.964757
+Test AUC: 0.825033
+Test loss: 2.321137
+Eval train time: 2.011525
+Train AUC: 0.999017
+Train loss: 0.032771
+Loop time: 21.606056 (0:36:28.569180 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.025600
+I0417 22:40:05.439170 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.2021 > 10) by scale factor 0.980188
+
+Iteration 5960
+Train time: 18.479747
+Eval test time: 1.053835
+Test AUC: 0.827094
+Test loss: 1.932433
+Eval train time: 1.948673
+Train AUC: 0.999947
+Train loss: 0.021000
+Loop time: 21.482449 (0:36:07.130168 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+I0417 22:40:23.694821 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.7797 > 10) by scale factor 0.927666
+
+Iteration 6000
+Train time: 18.554145
+Eval test time: 1.081612
+Test AUC: 0.828125
+Test loss: 2.097028
+Eval train time: 1.948854
+Train AUC: 0.999867
+Train loss: 0.028077
+Loop time: 21.584782 (0:35:45.758798 left)
+Memory usage: 0.522gb (560517120)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6040
+Train time: 18.448200
+Eval test time: 1.021899
+Test AUC: 0.832791
+Test loss: 1.937709
+Eval train time: 1.914476
+Train AUC: 0.999761
+Train loss: 0.034130
+Loop time: 21.384739 (0:35:24.253449 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+I0417 22:41:16.909227 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.0518 > 10) by scale factor 0.90483
+I0417 22:41:21.027324 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 20.3247 > 10) by scale factor 0.492013
+
+Iteration 6080
+Train time: 18.474672
+Eval test time: 1.059482
+Test AUC: 0.824870
+Test loss: 2.107576
+Eval train time: 1.966584
+Train AUC: 0.999973
+Train loss: 0.055851
+Loop time: 21.500916 (0:35:02.824589 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+I0417 22:41:32.574256 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.1967 > 10) by scale factor 0.980712
+
+Iteration 6120
+Train time: 18.723784
+Eval test time: 1.077210
+Test AUC: 0.833659
+Test loss: 1.966124
+Eval train time: 1.894451
+Train AUC: 0.999495
+Train loss: 0.031666
+Loop time: 21.695632 (0:34:41.518235 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6160
+Train time: 18.533807
+Eval test time: 0.961018
+Test AUC: 0.834364
+Test loss: 1.904631
+Eval train time: 1.911446
+Train AUC: 0.999787
+Train loss: 0.026197
+Loop time: 21.406455 (0:34:20.026560 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+I0417 22:42:15.189085 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.6838 > 10) by scale factor 0.935998
+
+Iteration 6200
+Train time: 18.676605
+Eval test time: 1.055474
+Test AUC: 0.833605
+Test loss: 1.816198
+Eval train time: 2.033640
+Train AUC: 0.999708
+Train loss: 0.027380
+Loop time: 21.765908 (0:33:58.756294 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6240
+Train time: 18.686790
+Eval test time: 1.017284
+Test AUC: 0.823947
+Test loss: 2.074230
+Eval train time: 1.922956
+Train AUC: 0.999787
+Train loss: 0.025451
+Loop time: 21.627224 (0:33:37.396107 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6280
+Train time: 18.556173
+Eval test time: 0.967893
+Test AUC: 0.824056
+Test loss: 2.137997
+Eval train time: 1.966784
+Train AUC: 0.999734
+Train loss: 0.030611
+Loop time: 21.491026 (0:33:15.951841 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6320
+Train time: 18.663165
+Eval test time: 1.008951
+Test AUC: 0.815809
+Test loss: 2.348412
+Eval train time: 1.951186
+Train AUC: 0.999522
+Train loss: 0.030283
+Loop time: 21.623492 (0:32:54.584116 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6360
+Train time: 18.687810
+Eval test time: 0.963178
+Test AUC: 0.822103
+Test loss: 2.248052
+Eval train time: 1.897638
+Train AUC: 0.999495
+Train loss: 0.035809
+Loop time: 21.548811 (0:32:33.170431 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+I0417 22:44:12.092790 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.957 > 10) by scale factor 0.836329
+
+Iteration 6400
+Train time: 18.571421
+Eval test time: 0.963651
+Test AUC: 0.825901
+Test loss: 2.498020
+Eval train time: 1.957536
+Train AUC: 0.999734
+Train loss: 0.066504
+Loop time: 21.492788 (0:32:11.723544 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+I0417 22:44:26.278530 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.3544 > 10) by scale factor 0.965769
+I0417 22:44:29.071943 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 15.179 > 10) by scale factor 0.658806
+I0417 22:44:31.432003 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 14.8024 > 10) by scale factor 0.675564
+I0417 22:44:33.771446 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.9485 > 10) by scale factor 0.772291
+
+Iteration 6440
+Train time: 18.817280
+Eval test time: 1.062644
+Test AUC: 0.829861
+Test loss: 1.916177
+Eval train time: 1.993265
+Train AUC: 0.999841
+Train loss: 0.036967
+Loop time: 21.873366 (0:31:50.486468 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6480
+Train time: 18.649443
+Eval test time: 0.963831
+Test AUC: 0.821777
+Test loss: 2.310593
+Eval train time: 1.916674
+Train AUC: 0.999256
+Train loss: 0.034779
+Loop time: 21.530126 (0:31:29.055086 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6520
+Train time: 18.528447
+Eval test time: 1.016205
+Test AUC: 0.834201
+Test loss: 1.903529
+Eval train time: 1.903205
+Train AUC: 0.999309
+Train loss: 0.066424
+Loop time: 21.448043 (0:31:07.578681 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+I0417 22:45:25.942160 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.7576 > 10) by scale factor 0.929574
+
+Iteration 6560
+Train time: 18.726098
+Eval test time: 1.110043
+Test AUC: 0.832357
+Test loss: 1.940418
+Eval train time: 1.977898
+Train AUC: 0.999522
+Train loss: 0.032567
+Loop time: 21.814217 (0:30:46.294640 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6600
+Train time: 18.727940
+Eval test time: 1.039413
+Test AUC: 0.832574
+Test loss: 1.971900
+Eval train time: 1.935590
+Train AUC: 0.999415
+Train loss: 0.029099
+Loop time: 21.703127 (0:30:24.946944 left)
+Memory usage: 0.522gb (560574464)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6640
+Train time: 18.766247
+Eval test time: 0.986422
+Test AUC: 0.828396
+Test loss: 2.177174
+Eval train time: 1.926269
+Train AUC: 0.999814
+Train loss: 0.029608
+Loop time: 21.679120 (0:30:03.582818 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+I0417 22:46:30.787581 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.3053 > 10) by scale factor 0.884542
+I0417 22:46:33.569223 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.6226 > 10) by scale factor 0.792232
+
+Iteration 6680
+Train time: 18.593493
+Eval test time: 1.073304
+Test AUC: 0.827474
+Test loss: 1.951635
+Eval train time: 1.971287
+Train AUC: 0.999761
+Train loss: 0.038677
+Loop time: 21.638268 (0:29:42.194616 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+I0417 22:46:59.727630 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 17.5533 > 10) by scale factor 0.569695
+I0417 22:47:00.673931 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.2035 > 10) by scale factor 0.757375
+
+Iteration 6720
+Train time: 18.463352
+Eval test time: 1.003156
+Test AUC: 0.810113
+Test loss: 2.443868
+Eval train time: 1.963805
+Train AUC: 0.999787
+Train loss: 0.049464
+Loop time: 21.430662 (0:29:20.702105 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6760
+Train time: 18.713933
+Eval test time: 1.075878
+Test AUC: 0.824273
+Test loss: 2.257045
+Eval train time: 1.987111
+Train AUC: 0.999655
+Train loss: 0.036387
+Loop time: 21.777110 (0:28:59.376376 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6800
+Train time: 18.617634
+Eval test time: 0.958285
+Test AUC: 0.821940
+Test loss: 2.124639
+Eval train time: 1.895644
+Train AUC: 0.999655
+Train loss: 0.030063
+Loop time: 21.471831 (0:28:37.901675 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6840
+Train time: 18.566959
+Eval test time: 1.014986
+Test AUC: 0.827040
+Test loss: 1.964974
+Eval train time: 1.929366
+Train AUC: 0.999734
+Train loss: 0.024568
+Loop time: 21.511475 (0:28:16.445323 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.021000
+
+Iteration 6880
+Train time: 18.670762
+Eval test time: 1.010655
+Test AUC: 0.823730
+Test loss: 2.201736
+Eval train time: 1.957404
+Train AUC: 0.999947
+Train loss: 0.017033
+Loop time: 21.638998 (0:27:55.046160 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.017033
+
+Iteration 6920
+Train time: 18.494220
+Eval test time: 1.063259
+Test AUC: 0.829644
+Test loss: 1.912262
+Eval train time: 1.969725
+Train AUC: 0.999867
+Train loss: 0.023470
+Loop time: 21.527371 (0:27:33.594541 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.017033
+
+Iteration 6960
+Train time: 18.641826
+Eval test time: 1.023121
+Test AUC: 0.831055
+Test loss: 2.115728
+Eval train time: 2.010650
+Train AUC: 0.999283
+Train loss: 0.041545
+Loop time: 21.675789 (0:27:12.206877 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.017033
+
+Iteration 7000
+Train time: 18.674844
+Eval test time: 1.064069
+Test AUC: 0.826118
+Test loss: 1.946528
+Eval train time: 1.957560
+Train AUC: 0.999655
+Train loss: 0.026759
+Loop time: 21.696655 (0:26:50.824863 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.017033
+
+Iteration 7040
+Train time: 18.580069
+Eval test time: 1.060304
+Test AUC: 0.826118
+Test loss: 2.059521
+Eval train time: 1.931807
+Train AUC: 0.999973
+Train loss: 0.017179
+Loop time: 21.572364 (0:26:29.387015 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.017033
+
+Iteration 7080
+Train time: 18.594693
+Eval test time: 0.980519
+Test AUC: 0.825467
+Test loss: 2.015494
+Eval train time: 1.925066
+Train AUC: 0.999894
+Train loss: 0.020179
+Loop time: 21.500462 (0:26:07.917992 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.017033
+
+Iteration 7120
+Train time: 18.477703
+Eval test time: 1.089037
+Test AUC: 0.835178
+Test loss: 2.042706
+Eval train time: 1.999614
+Train AUC: 0.999708
+Train loss: 0.025649
+Loop time: 21.566542 (0:25:46.475346 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.017033
+
+Iteration 7160
+Train time: 18.625993
+Eval test time: 1.005736
+Test AUC: 0.824978
+Test loss: 2.340467
+Eval train time: 1.918953
+Train AUC: 0.999522
+Train loss: 0.032093
+Loop time: 21.550844 (0:25:25.025088 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.017033
+
+Iteration 7200
+Train time: 18.534485
+Eval test time: 1.008391
+Test AUC: 0.829264
+Test loss: 2.201044
+Eval train time: 1.898155
+Train AUC: 0.999841
+Train loss: 0.017201
+Loop time: 21.441213 (0:25:03.531078 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842122 inf   Best train loss: 0.017033
+
+Iteration 7240
+Train time: 18.359748
+Eval test time: 1.013737
+Test AUC: 0.842828
+Test loss: 1.789029
+Eval train time: 1.934147
+Train AUC: 0.998964
+Train loss: 0.034906
+Loop time: 21.307815 (0:24:41.986799 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.017033
+
+Iteration 7280
+Train time: 18.553642
+Eval test time: 1.004960
+Test AUC: 0.833062
+Test loss: 2.102127
+Eval train time: 1.924803
+Train AUC: 0.999867
+Train loss: 0.018311
+Loop time: 21.483586 (0:24:20.510790 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.017033
+
+Iteration 7320
+Train time: 18.497495
+Eval test time: 1.007563
+Test AUC: 0.840549
+Test loss: 1.978775
+Eval train time: 1.924317
+Train AUC: 0.999734
+Train loss: 0.028062
+Loop time: 21.429560 (0:23:59.014919 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.017033
+I0417 22:52:40.909685 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.218 > 10) by scale factor 0.818465
+
+Iteration 7360
+Train time: 18.482605
+Eval test time: 1.008952
+Test AUC: 0.820747
+Test loss: 2.257913
+Eval train time: 1.921876
+Train AUC: 0.999920
+Train loss: 0.019313
+Loop time: 21.413620 (0:23:37.514051 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.017033
+
+Iteration 7400
+Train time: 18.502100
+Eval test time: 1.005790
+Test AUC: 0.827148
+Test loss: 2.323833
+Eval train time: 1.924148
+Train AUC: 0.999920
+Train loss: 0.017764
+Loop time: 21.432218 (0:23:16.020660 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.017033
+
+Iteration 7440
+Train time: 18.494671
+Eval test time: 1.009482
+Test AUC: 0.829102
+Test loss: 2.217727
+Eval train time: 1.899418
+Train AUC: 1.000000
+Train loss: 0.016794
+Loop time: 21.403836 (0:22:54.518162 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.016794
+
+Iteration 7480
+Train time: 18.364474
+Eval test time: 1.010328
+Test AUC: 0.825033
+Test loss: 2.214461
+Eval train time: 1.903496
+Train AUC: 0.999814
+Train loss: 0.022329
+Loop time: 21.278488 (0:22:32.974489 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.016794
+
+Iteration 7520
+Train time: 18.368837
+Eval test time: 1.008021
+Test AUC: 0.819878
+Test loss: 2.434192
+Eval train time: 1.929321
+Train AUC: 0.999787
+Train loss: 0.017849
+Loop time: 21.306355 (0:22:11.442827 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.016794
+
+Iteration 7560
+Train time: 18.506086
+Eval test time: 0.966587
+Test AUC: 0.827148
+Test loss: 2.193590
+Eval train time: 1.895595
+Train AUC: 0.999894
+Train loss: 0.020599
+Loop time: 21.368449 (0:21:49.933591 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.016794
+
+Iteration 7600
+Train time: 18.493221
+Eval test time: 0.963411
+Test AUC: 0.833713
+Test loss: 2.330850
+Eval train time: 1.901107
+Train AUC: 0.999867
+Train loss: 0.019762
+Loop time: 21.357932 (0:21:28.422515 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.016794
+I0417 22:55:14.286947 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.3381 > 10) by scale factor 0.967299
+
+Iteration 7640
+Train time: 18.493531
+Eval test time: 1.005749
+Test AUC: 0.823785
+Test loss: 2.081332
+Eval train time: 1.922648
+Train AUC: 0.999841
+Train loss: 0.017962
+Loop time: 21.422121 (0:21:06.932871 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.016794
+
+Iteration 7680
+Train time: 18.500018
+Eval test time: 1.012695
+Test AUC: 0.830078
+Test loss: 2.093305
+Eval train time: 1.937097
+Train AUC: 0.999708
+Train loss: 0.025325
+Loop time: 21.449993 (0:20:45.452350 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.016794
+
+Iteration 7720
+Train time: 18.494076
+Eval test time: 1.011051
+Test AUC: 0.826714
+Test loss: 2.346303
+Eval train time: 1.898628
+Train AUC: 0.999681
+Train loss: 0.030648
+Loop time: 21.403985 (0:20:23.958558 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.016794
+
+Iteration 7760
+Train time: 18.355947
+Eval test time: 0.960735
+Test AUC: 0.823134
+Test loss: 2.279951
+Eval train time: 1.896355
+Train AUC: 0.999973
+Train loss: 0.014405
+Loop time: 21.213220 (0:20:02.410625 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.014405
+
+Iteration 7800
+Train time: 18.361090
+Eval test time: 1.009038
+Test AUC: 0.827257
+Test loss: 2.091781
+Eval train time: 1.902801
+Train AUC: 0.999841
+Train loss: 0.024096
+Loop time: 21.273116 (0:19:40.883019 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.014405
+
+Iteration 7840
+Train time: 18.371673
+Eval test time: 1.013945
+Test AUC: 0.823730
+Test loss: 2.338941
+Eval train time: 1.911785
+Train AUC: 0.999841
+Train loss: 0.019292
+Loop time: 21.297594 (0:19:19.364753 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.014405
+
+Iteration 7880
+Train time: 18.369323
+Eval test time: 0.962521
+Test AUC: 0.824816
+Test loss: 2.144089
+Eval train time: 1.898927
+Train AUC: 0.999920
+Train loss: 0.015505
+Loop time: 21.230967 (0:18:57.830803 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.014405
+
+Iteration 7920
+Train time: 18.367101
+Eval test time: 1.011873
+Test AUC: 0.827528
+Test loss: 2.417727
+Eval train time: 1.894197
+Train AUC: 0.999787
+Train loss: 0.021349
+Loop time: 21.273454 (0:18:36.311072 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.014405
+
+Iteration 7960
+Train time: 18.360765
+Eval test time: 1.008231
+Test AUC: 0.828071
+Test loss: 2.359049
+Eval train time: 1.898548
+Train AUC: 0.999973
+Train loss: 0.014099
+Loop time: 21.267724 (0:18:14.792347 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.014099
+
+Iteration 8000
+Train time: 18.361585
+Eval test time: 0.961425
+Test AUC: 0.828993
+Test loss: 2.378946
+Eval train time: 1.988792
+Train AUC: 1.000000
+Train loss: 0.025207
+Loop time: 21.311999 (0:17:53.287201 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.014099
+
+Iteration 8040
+Train time: 18.628199
+Eval test time: 1.070284
+Test AUC: 0.828668
+Test loss: 2.218936
+Eval train time: 1.902063
+Train AUC: 0.999867
+Train loss: 0.019395
+Loop time: 21.600781 (0:17:31.854377 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.014099
+
+Iteration 8080
+Train time: 18.481916
+Eval test time: 1.045000
+Test AUC: 0.826606
+Test loss: 2.438496
+Eval train time: 1.982086
+Train AUC: 0.999947
+Train loss: 0.013941
+Loop time: 21.509195 (0:17:10.398126 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.013941
+
+Iteration 8120
+Train time: 18.807629
+Eval test time: 1.012995
+Test AUC: 0.821506
+Test loss: 2.380370
+Eval train time: 1.983786
+Train AUC: 0.999920
+Train loss: 0.014548
+Loop time: 21.804576 (0:16:49.009743 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.013941
+
+Iteration 8160
+Train time: 18.568011
+Eval test time: 0.961319
+Test AUC: 0.823351
+Test loss: 2.407900
+Eval train time: 1.893533
+Train AUC: 0.999973
+Train loss: 0.013755
+Loop time: 21.423046 (0:16:27.531248 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.013755
+I0417 23:00:14.018765 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 14.1639 > 10) by scale factor 0.70602
+I0417 23:00:15.437522 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.4207 > 10) by scale factor 0.875604
+I0417 23:00:15.895820 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.8474 > 10) by scale factor 0.844068
+I0417 23:00:18.707438 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 15.5535 > 10) by scale factor 0.642941
+
+Iteration 8200
+Train time: 18.640348
+Eval test time: 1.010950
+Test AUC: 0.830078
+Test loss: 2.033500
+Eval train time: 1.916786
+Train AUC: 0.999628
+Train loss: 0.048930
+Loop time: 21.568249 (0:16:06.085167 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.013755
+
+Iteration 8240
+Train time: 18.737333
+Eval test time: 1.034037
+Test AUC: 0.826172
+Test loss: 2.426484
+Eval train time: 1.963767
+Train AUC: 0.999708
+Train loss: 0.021741
+Loop time: 21.735316 (0:15:44.673585 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.013755
+I0417 23:00:51.353353 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.4269 > 10) by scale factor 0.959056
+
+Iteration 8280
+Train time: 18.570021
+Eval test time: 1.004439
+Test AUC: 0.825033
+Test loss: 2.233407
+Eval train time: 1.949217
+Train AUC: 1.000000
+Train loss: 0.012921
+Loop time: 21.523859 (0:15:23.214949 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.012921
+
+Iteration 8320
+Train time: 18.534901
+Eval test time: 1.016110
+Test AUC: 0.830404
+Test loss: 2.269370
+Eval train time: 1.980655
+Train AUC: 0.999841
+Train loss: 0.019656
+Loop time: 21.531930 (0:15:01.757316 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.012921
+
+Iteration 8360
+Train time: 18.783665
+Eval test time: 1.009919
+Test AUC: 0.831760
+Test loss: 2.268763
+Eval train time: 1.923382
+Train AUC: 0.999655
+Train loss: 0.038392
+Loop time: 21.717153 (0:14:40.335308 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.012921
+
+Iteration 8400
+Train time: 18.741414
+Eval test time: 0.964311
+Test AUC: 0.828722
+Test loss: 2.381948
+Eval train time: 1.910877
+Train AUC: 0.999841
+Train loss: 0.018161
+Loop time: 21.616767 (0:14:18.891367 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.012921
+I0417 23:02:25.614537 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.5283 > 10) by scale factor 0.73919
+I0417 23:02:26.079239 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 17.2622 > 10) by scale factor 0.579299
+I0417 23:02:27.456599 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.6003 > 10) by scale factor 0.86205
+
+Iteration 8440
+Train time: 18.442866
+Eval test time: 1.003228
+Test AUC: 0.814399
+Test loss: 2.972688
+Eval train time: 1.950667
+Train AUC: 0.999708
+Train loss: 0.024968
+Loop time: 21.396945 (0:13:57.405158 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.012921
+
+Iteration 8480
+Train time: 18.631038
+Eval test time: 1.001790
+Test AUC: 0.825033
+Test loss: 2.265086
+Eval train time: 1.991749
+Train AUC: 1.000000
+Train loss: 0.011624
+Loop time: 21.624764 (0:13:35.960626 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.011624
+
+Iteration 8520
+Train time: 18.544382
+Eval test time: 1.008710
+Test AUC: 0.822591
+Test loss: 2.596667
+Eval train time: 1.922660
+Train AUC: 1.000000
+Train loss: 0.014426
+Loop time: 21.475936 (0:13:14.488549 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.011624
+I0417 23:03:23.259852 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 15.1254 > 10) by scale factor 0.661138
+
+Iteration 8560
+Train time: 18.503013
+Eval test time: 0.963059
+Test AUC: 0.824056
+Test loss: 2.748288
+Eval train time: 1.896324
+Train AUC: 0.999841
+Train loss: 0.014858
+Loop time: 21.362585 (0:12:52.997367 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.011624
+
+Iteration 8600
+Train time: 18.511480
+Eval test time: 1.004954
+Test AUC: 0.824978
+Test loss: 2.190097
+Eval train time: 1.926320
+Train AUC: 0.999894
+Train loss: 0.015953
+Loop time: 21.442941 (0:12:31.520464 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.011624
+
+Iteration 8640
+Train time: 18.505092
+Eval test time: 1.008589
+Test AUC: 0.825412
+Test loss: 2.508527
+Eval train time: 1.917933
+Train AUC: 0.999894
+Train loss: 0.015746
+Loop time: 21.431790 (0:12:10.042119 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.011624
+I0417 23:04:29.382640 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.2805 > 10) by scale factor 0.972718
+
+Iteration 8680
+Train time: 18.500678
+Eval test time: 0.961850
+Test AUC: 0.828830
+Test loss: 2.410029
+Eval train time: 1.900943
+Train AUC: 0.999920
+Train loss: 0.014176
+Loop time: 21.363657 (0:11:48.553842 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.011624
+
+Iteration 8720
+Train time: 18.367965
+Eval test time: 1.011351
+Test AUC: 0.826497
+Test loss: 2.521276
+Eval train time: 1.900944
+Train AUC: 0.999841
+Train loss: 0.017410
+Loop time: 21.280441 (0:11:27.054493 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.011624
+
+Iteration 8760
+Train time: 18.369368
+Eval test time: 0.961876
+Test AUC: 0.827854
+Test loss: 2.291973
+Eval train time: 1.896431
+Train AUC: 0.999920
+Train loss: 0.012006
+Loop time: 21.227859 (0:11:05.549701 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.011624
+
+Iteration 8800
+Train time: 18.357349
+Eval test time: 1.011796
+Test AUC: 0.814887
+Test loss: 2.754700
+Eval train time: 1.903768
+Train AUC: 1.000000
+Train loss: 0.013870
+Loop time: 21.273094 (0:10:44.053594 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.011624
+
+Iteration 8840
+Train time: 18.368588
+Eval test time: 0.961804
+Test AUC: 0.828016
+Test loss: 2.231309
+Eval train time: 1.895226
+Train AUC: 0.999973
+Train loss: 0.010491
+Loop time: 21.225796 (0:10:22.553299 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.010491
+
+Iteration 8880
+Train time: 18.362579
+Eval test time: 0.961396
+Test AUC: 0.837891
+Test loss: 2.255159
+Eval train time: 1.898797
+Train AUC: 0.999787
+Train loss: 0.018299
+Loop time: 21.222955 (0:10:01.055119 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.010491
+
+Iteration 8920
+Train time: 18.378110
+Eval test time: 0.962782
+Test AUC: 0.828288
+Test loss: 2.443802
+Eval train time: 1.898502
+Train AUC: 1.000000
+Train loss: 0.011489
+Loop time: 21.239580 (0:09:39.561419 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.010491
+I0417 23:06:55.055933 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 12.0917 > 10) by scale factor 0.827013
+I0417 23:06:55.971954 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 10.1314 > 10) by scale factor 0.987031
+
+Iteration 8960
+Train time: 18.359626
+Eval test time: 0.962151
+Test AUC: 0.824924
+Test loss: 2.216027
+Eval train time: 1.897447
+Train AUC: 1.000000
+Train loss: 0.009827
+Loop time: 21.219409 (0:09:18.067648 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009827
+
+Iteration 9000
+Train time: 18.496082
+Eval test time: 1.011590
+Test AUC: 0.829698
+Test loss: 2.207059
+Eval train time: 1.896157
+Train AUC: 0.999761
+Train loss: 0.022548
+Loop time: 21.404018 (0:08:56.596827 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009827
+
+Iteration 9040
+Train time: 18.362287
+Eval test time: 0.961470
+Test AUC: 0.829047
+Test loss: 2.380830
+Eval train time: 1.924495
+Train AUC: 0.999947
+Train loss: 0.012422
+Loop time: 21.248435 (0:08:35.110076 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009827
+
+Iteration 9080
+Train time: 18.506924
+Eval test time: 1.007279
+Test AUC: 0.821398
+Test loss: 2.432130
+Eval train time: 1.927562
+Train AUC: 0.999947
+Train loss: 0.018180
+Loop time: 21.441950 (0:08:13.645031 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009827
+
+Iteration 9120
+Train time: 18.492908
+Eval test time: 1.014195
+Test AUC: 0.827420
+Test loss: 2.448134
+Eval train time: 1.901005
+Train AUC: 0.999867
+Train loss: 0.016928
+Loop time: 21.408298 (0:07:52.176942 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009827
+
+Iteration 9160
+Train time: 18.360380
+Eval test time: 1.009646
+Test AUC: 0.823134
+Test loss: 2.421016
+Eval train time: 1.934862
+Train AUC: 0.999973
+Train loss: 0.010044
+Loop time: 21.305078 (0:07:30.699910 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009827
+
+Iteration 9200
+Train time: 18.551212
+Eval test time: 1.007704
+Test AUC: 0.824707
+Test loss: 2.287173
+Eval train time: 1.920866
+Train AUC: 0.999973
+Train loss: 0.015303
+Loop time: 21.479954 (0:07:09.239579 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009827
+
+Iteration 9240
+Train time: 18.503627
+Eval test time: 1.006297
+Test AUC: 0.824219
+Test loss: 2.410338
+Eval train time: 1.919473
+Train AUC: 0.999655
+Train loss: 0.032792
+Loop time: 21.429586 (0:06:47.774936 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009827
+
+Iteration 9280
+Train time: 18.511206
+Eval test time: 1.011809
+Test AUC: 0.824382
+Test loss: 2.543292
+Eval train time: 1.928558
+Train AUC: 0.999894
+Train loss: 0.018699
+Loop time: 21.451761 (0:06:26.312315 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009827
+
+Iteration 9320
+Train time: 18.509095
+Eval test time: 1.010446
+Test AUC: 0.829319
+Test loss: 2.570729
+Eval train time: 1.924511
+Train AUC: 0.999867
+Train loss: 0.014549
+Loop time: 21.444240 (0:06:04.849239 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009827
+
+Iteration 9360
+Train time: 18.519856
+Eval test time: 1.008301
+Test AUC: 0.830024
+Test loss: 2.339809
+Eval train time: 1.899418
+Train AUC: 0.999920
+Train loss: 0.019648
+Loop time: 21.427758 (0:05:43.385197 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009827
+
+Iteration 9400
+Train time: 18.372925
+Eval test time: 1.014275
+Test AUC: 0.830838
+Test loss: 2.397266
+Eval train time: 1.900325
+Train AUC: 0.999947
+Train loss: 0.013077
+Loop time: 21.287704 (0:05:21.912524 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009827
+
+Iteration 9440
+Train time: 18.365636
+Eval test time: 1.007582
+Test AUC: 0.823134
+Test loss: 2.550538
+Eval train time: 1.923122
+Train AUC: 0.999973
+Train loss: 0.009526
+Loop time: 21.296523 (0:05:00.441942 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009526
+I0417 23:11:44.233539 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 13.0357 > 10) by scale factor 0.767126
+
+Iteration 9480
+Train time: 18.494795
+Eval test time: 1.007892
+Test AUC: 0.831597
+Test loss: 2.214768
+Eval train time: 1.918327
+Train AUC: 0.999841
+Train loss: 0.019934
+Loop time: 21.421209 (0:04:38.979668 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009526
+
+Iteration 9520
+Train time: 18.493494
+Eval test time: 1.012275
+Test AUC: 0.814833
+Test loss: 2.924097
+Eval train time: 1.924701
+Train AUC: 0.999947
+Train loss: 0.016392
+Loop time: 21.430645 (0:04:17.518214 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009526
+
+Iteration 9560
+Train time: 18.369044
+Eval test time: 0.966599
+Test AUC: 0.827691
+Test loss: 2.295991
+Eval train time: 1.923537
+Train AUC: 0.999894
+Train loss: 0.021727
+Loop time: 21.259361 (0:03:56.049136 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009526
+
+Iteration 9600
+Train time: 18.505203
+Eval test time: 1.014331
+Test AUC: 0.822374
+Test loss: 2.725819
+Eval train time: 1.935708
+Train AUC: 0.999973
+Train loss: 0.014100
+Loop time: 21.455429 (0:03:34.589974 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009526
+
+Iteration 9640
+Train time: 18.495518
+Eval test time: 1.010710
+Test AUC: 0.824219
+Test loss: 2.515907
+Eval train time: 1.896059
+Train AUC: 0.999841
+Train loss: 0.018857
+Loop time: 21.402474 (0:03:13.128866 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009526
+
+Iteration 9680
+Train time: 18.359985
+Eval test time: 1.012165
+Test AUC: 0.826118
+Test loss: 2.668337
+Eval train time: 1.896104
+Train AUC: 0.999947
+Train loss: 0.010505
+Loop time: 21.268435 (0:02:51.663811 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009526
+I0417 23:13:44.665015 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.0995 > 10) by scale factor 0.900941
+I0417 23:13:46.962669 26792 sgd_solver.cpp:99] Gradient clipping: scaling down gradients (L2 norm 11.0641 > 10) by scale factor 0.903828
+
+Iteration 9720
+Train time: 18.378716
+Eval test time: 0.965544
+Test AUC: 0.816623
+Test loss: 2.589039
+Eval train time: 1.895475
+Train AUC: 0.999973
+Train loss: 0.018371
+Loop time: 21.239916 (0:02:30.199553 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009526
+
+Iteration 9760
+Train time: 18.369671
+Eval test time: 1.009745
+Test AUC: 0.824653
+Test loss: 2.389869
+Eval train time: 1.899891
+Train AUC: 0.999867
+Train loss: 0.020124
+Loop time: 21.279468 (0:02:08.738107 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009526
+
+Iteration 9800
+Train time: 18.367460
+Eval test time: 1.009276
+Test AUC: 0.823242
+Test loss: 2.602315
+Eval train time: 1.897121
+Train AUC: 1.000000
+Train loss: 0.010929
+Loop time: 21.274040 (0:01:47.278035 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009526
+
+Iteration 9840
+Train time: 18.361029
+Eval test time: 1.009095
+Test AUC: 0.820801
+Test loss: 2.555688
+Eval train time: 1.897879
+Train AUC: 0.999894
+Train loss: 0.051578
+Loop time: 21.268187 (0:01:25.819380 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.009526
+
+Iteration 9880
+Train time: 18.355939
+Eval test time: 1.009843
+Test AUC: 0.824707
+Test loss: 2.379870
+Eval train time: 1.896031
+Train AUC: 1.000000
+Train loss: 0.008696
+Loop time: 21.262097 (0:01:04.362194 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.008696
+
+Iteration 9920
+Train time: 18.367359
+Eval test time: 1.007817
+Test AUC: 0.828613
+Test loss: 2.323912
+Eval train time: 1.916096
+Train AUC: 0.999973
+Train loss: 0.009650
+Loop time: 21.291452 (0:00:42.906818 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.008696
+
+Iteration 9960
+Train time: 18.494635
+Eval test time: 1.008969
+Test AUC: 0.827148
+Test loss: 2.297274
+Eval train time: 1.898511
+Train AUC: 1.000000
+Train loss: 0.008367
+Loop time: 21.402300 (0:00:21.453204 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.008367
+
+Iteration 10000
+Train time: 18.380735
+Eval test time: 1.012360
+Test AUC: 0.825304
+Test loss: 2.418747
+Eval train time: 1.928044
+Train AUC: 1.000000
+Train loss: 0.009871
+Loop time: 21.321326 (0:00:00 left)
+Memory usage: 0.522gb (560652288)
+Best test AUC/RMSD: 0.842828 inf   Best train loss: 0.008367
+I0417 23:16:27.306702 26792 solver.cpp:470] Snapshotting to binary proto file refmodel3.26792.0_iter_10000.caffemodel
+I0417 23:16:27.310551 26792 sgd_solver.cpp:280] Snapshotting solver state to binary proto file refmodel3.26792.0_iter_10000.solverstate
+#
